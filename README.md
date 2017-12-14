@@ -1,10 +1,7 @@
-## Hello guys my name is karthik 
-## You can Know more about me fron my portfolio 
-## you can find my portfolio to the right
+## Hello guys my name is karthik You can Know more about me fron my portfolio you can find my portfolio to the right named as Assignment
 
 You can use the [editor on GitHub](https://github.com/karu369/Assignment/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
 
