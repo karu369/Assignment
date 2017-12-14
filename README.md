@@ -1,5 +1,5 @@
-## Hello guys my name is karthik You can Know more about me fron my portfolio you can find my portfolio to the right named as Assignment
-
+## Hello guys my name is karthik You can Know more about me from my portfolio you can find my portfolio to the right named as Assignment
+## and in that Assignment there is a file called assignment-2. In that u can find the files.
 
 
 ### Support or Contact
